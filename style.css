@@ -17,7 +17,7 @@
 }
 .childtwo
 {
-  border: 3px solid #B3A622;
+  border: 3px dotted #B3A622;
   padding: 3%;
   margin: 2%;
   width: 70%;
@@ -41,7 +41,7 @@
   }
   .childone
   {
-    border: 3px solid #AD1B75;
+    border: 3px solid pink;
     padding: 3%;
     margin: 2%;
     width: 90%;
